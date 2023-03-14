@@ -11,7 +11,7 @@ All the codes, issues, and functions created can be downloaded from the [followi
 
 # Slides
 
-- [Slide 1 - March, 14](https://valentinaandrade.github.io/quantile-wage-gap/03output/02slides/slide1.pdf)
+- [Slide 1 - March, 14](https://valentinaandrade.github.io/quantile-wage-gap/03output/02slides/01slide.pdf)
 
 
 
