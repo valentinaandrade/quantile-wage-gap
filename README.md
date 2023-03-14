@@ -1,4 +1,4 @@
-# Page cupos BEA project
+# Page quantile wage gap project
 
 ## Slides xaringan
 
